@@ -1,2 +1,2 @@
 # dataanalysis
-Shreerang Here, Completed data analysis projects 
+Shreerang Here, Learned Data Analysis and created some data analysis projects according to the course 
